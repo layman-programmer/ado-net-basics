@@ -1,0 +1,25 @@
+﻿ADO.NET
+
+using System.Data; // ADO.NET Api
+
+	1) IDbConnection
+	2) IDbCommand (IDataParameter)
+	3) IDataReader
+	4) IDataAdapter
+
+For MSSQL Server
+	1) SqlConnection
+	2) SqlCommand (SqlParameter)
+	3) SqlDataReader
+	4) SqlDataAdapter
+
+5 Setps for Db access using ADO.NET
+	1) Get the connection
+	2) Open the connection
+	3) Prepare the command 
+	4) Execute the command
+	5) Close the connection
+
+
+
+
