@@ -15,7 +15,7 @@ namespace AdoNetExample
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AddEditForm());
+            Application.Run(new Form1());
         }
     }
 }
